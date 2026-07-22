@@ -6,4 +6,4 @@ This repository houses the preview builds for [GEMMA](https://github.com/GMD-Rep
 
 For downloads, see [Releases](https://github.com/GMD-Repository/gemma-plugin/releases).
 
-To download the stable release, see https://mihon.app/download/
+To download the stable release, see https://gmd-repository.github.io/gemma-plugin
